@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="0.1" type="plugin" group="content" method="upgrade">
+<extension version="0.2" type="plugin" group="content" method="upgrade">
   <name>FWieP-Plyr</name>
-  <creationDate>December 2021</creationDate>
+  <creationDate>April 2022</creationDate>
   <author>Frans-Willem Post (FWieP)</author>
   <authorEmail>fwiep@fwiep.nl</authorEmail>
   <authorUrl>https://www.fwiep.nl/</authorUrl>
-  <copyright>2021 Frans-Willem Post</copyright>
+  <copyright>2022 Frans-Willem Post</copyright>
   <license>GNU/GPL v3+</license>
   <version>3.6.12</version>
   <description>
