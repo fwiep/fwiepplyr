@@ -7,7 +7,7 @@
   <authorUrl>https://www.fwiep.nl/</authorUrl>
   <copyright>2022 Frans-Willem Post</copyright>
   <license>GNU/GPL v3+</license>
-  <version>3.6.12</version>
+  <version>3.7.0</version>
   <description>
     Override the user's default HTML5 audio- and videoplayers with an
     accessible alternative, provided by the &lt;a href="https://plyr.io/"
