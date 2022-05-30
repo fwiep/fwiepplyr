@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="0.2" type="plugin" group="content" method="upgrade">
+<extension version="4.0.0" type="plugin" group="content" method="upgrade">
   <name>FWieP-Plyr</name>
-  <creationDate>April 2022</creationDate>
+  <creationDate>May 2022</creationDate>
   <author>Frans-Willem Post (FWieP)</author>
   <authorEmail>fwiep@fwiep.nl</authorEmail>
   <authorUrl>https://www.fwiep.nl/</authorUrl>
@@ -19,5 +19,4 @@
     <folder>img</folder>
     <folder>js</folder>
   </files>
-  <config />
 </extension>
