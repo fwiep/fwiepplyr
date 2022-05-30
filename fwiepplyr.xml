@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="4.0.0" type="plugin" group="content" method="upgrade">
-  <name>FWieP-Plyr</name>
+  <name>PLG_CONTENT_FWIEPPLYR</name>
   <creationDate>May 2022</creationDate>
   <author>Frans-Willem Post (FWieP)</author>
   <authorEmail>fwiep@fwiep.nl</authorEmail>
@@ -8,15 +8,17 @@
   <copyright>2022 Frans-Willem Post</copyright>
   <license>GNU/GPL v3+</license>
   <version>3.7.2</version>
-  <description>
-    Override the user's default HTML5 audio- and videoplayers with an
-    accessible alternative, provided by the &lt;a href="https://plyr.io/"
-    &gt;Plyr-project&lt;/a&gt;.
-  </description>
+  <description>PLG_CONTENT_FWIEPPLYR_DESCRIPTION</description>
   <files>
     <filename plugin="fwiepplyr">fwiepplyr.php</filename>
     <folder>css</folder>
     <folder>img</folder>
     <folder>js</folder>
   </files>
+	<languages>
+		<language tag="en-GB">en-GB.plg_content_fwiepplyr.ini</language>
+		<language tag="en-GB">en-GB.plg_content_fwiepplyr.sys.ini</language>
+		<language tag="nl-NL">nl-NL.plg_content_fwiepplyr.ini</language>
+		<language tag="nl-NL">nl-NL.plg_content_fwiepplyr.sys.ini</language>
+	</languages>
 </extension>
