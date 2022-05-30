@@ -91,6 +91,11 @@ class PlgContentFwiepplyr extends CMSPlugin
 		$app = Factory::getContainer()->get(SiteApplication::class);
 		$document = $app->getDocument();
 
+		if (is_null($document))
+		{
+			return;
+		}
+
 		/** @var WebAssetManager $wa */
 		$wa = $document->getWebAssetManager();
 
