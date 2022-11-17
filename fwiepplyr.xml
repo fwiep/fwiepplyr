@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="4.0.0" type="plugin" group="content" method="upgrade">
   <name>PLG_CONTENT_FWIEPPLYR</name>
-  <creationDate>May 2022</creationDate>
+  <creationDate>November 2022</creationDate>
   <author>Frans-Willem Post (FWieP)</author>
   <authorEmail>fwiep@fwiep.nl</authorEmail>
   <authorUrl>https://www.fwiep.nl/</authorUrl>
   <copyright>2022 Frans-Willem Post</copyright>
   <license>GNU/GPL v3+</license>
-  <version>3.7.2</version>
+  <version>3.7.3</version>
   <description>PLG_CONTENT_FWIEPPLYR_DESCRIPTION</description>
   <files>
     <filename plugin="fwiepplyr">fwiepplyr.php</filename>
@@ -15,10 +15,10 @@
     <folder>img</folder>
     <folder>js</folder>
   </files>
-	<languages>
-		<language tag="en-GB">en-GB.plg_content_fwiepplyr.ini</language>
-		<language tag="en-GB">en-GB.plg_content_fwiepplyr.sys.ini</language>
-		<language tag="nl-NL">nl-NL.plg_content_fwiepplyr.ini</language>
-		<language tag="nl-NL">nl-NL.plg_content_fwiepplyr.sys.ini</language>
-	</languages>
+    <languages>
+        <language tag="en-GB">en-GB.plg_content_fwiepplyr.ini</language>
+        <language tag="en-GB">en-GB.plg_content_fwiepplyr.sys.ini</language>
+        <language tag="nl-NL">nl-NL.plg_content_fwiepplyr.ini</language>
+        <language tag="nl-NL">nl-NL.plg_content_fwiepplyr.sys.ini</language>
+    </languages>
 </extension>
