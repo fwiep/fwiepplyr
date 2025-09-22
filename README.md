@@ -1,6 +1,9 @@
-# FWiePplyr
+# Moved to Codeberg
 
-Joomla! 4.0 plugin to override the user's default HTML5 audio- and
-videoplayers with an accessible alternative, provided by the [Plyr-project][1].
+This project has moved to [Codeberg.org][1].  
+Please update your links.
 
-[1]: https://plyr.io/
+Kind regards,  
+FWieP
+
+[1]: https://codeberg.org/fwiep/fwiepplyr
